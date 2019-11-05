@@ -1,5 +1,5 @@
 # SQL_Employee_Analysis
-
+This project analyzes data from multiple CSVs by creating, storing, and querying data in PostgreSQL.
 
 ## Skills Performed
 This project shows the following skills:<br><br>
@@ -11,3 +11,4 @@ This project shows the following skills:<br><br>
 *Understand the different kinds of joins and how to use them to create new tables in pgAdmin.<br>
 *Write basic- to intermediate-level SQL statements.<br>
 *Understanding of table design and database management.<br>
+
