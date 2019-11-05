@@ -2,8 +2,8 @@
 
 
 ## Skills Performed
-This project shows the following skills:<br>
-Create a localhost connection to a PostgreSQL server and have successfully connect to it.
+This project shows the following skills:<br><br>
+*Create a localhost connection to a PostgreSQL server and have successfully connect to it.
 Create, use, and populate a SQL database with data.
 Create, populate, and select data from a SQL table.
 Import large CSV datasets into pgAdmin.
