@@ -8,6 +8,6 @@ This project shows the following skills:<br><br>
 *Create, populate, and select data from a SQL table.<br>
 *Import large CSV datasets into pgAdmin.<br>
 *Use pgAdmin to select specific rows/columns of data out from a table.<br>
-*Understand the different kinds of joins and how to use them to create new tables in pgAdmin.
-*Write basic- to intermediate-level SQL statements.
+*Understand the different kinds of joins and how to use them to create new tables in pgAdmin.<br>
+*Write basic- to intermediate-level SQL statements.<br>
 *Understanding of table design and database management.
