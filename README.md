@@ -12,3 +12,7 @@ This project shows the following skills:<br><br>
 *Write basic- to intermediate-level SQL statements.<br>
 *Understanding of table design and database management.<br>
 
+## Dependencies
+1. PostgreSQL 
+2. pgAdmin
+
