@@ -16,3 +16,8 @@ This project shows the following skills:<br><br>
 1. PostgreSQL 
 2. pgAdmin
 
+## Deployment
+1. Clone this repository
+2. View ERD file to understand structure
+3. Run table structure SQL file
+4. Run queries
