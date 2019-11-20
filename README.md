@@ -11,6 +11,14 @@ This project shows the following skills:<br><br>
 * Use different kinds of joins to create new tables in pgAdmin.<br>
 * Write basic- to intermediate-level SQL statements.<br>
 * Understanding of table design and database management.<br>
+ERD
+![ERD](https://github.com/AndreaMorgan/SQL_Employee_Analysis/blob/master/Images/ERD.png)
+
+Table Creation
+![Tables](https://github.com/AndreaMorgan/SQL_Employee_Analysis/blob/master/Images/SQL_Tables.png)
+
+Queries and Joins
+![Queries](https://github.com/AndreaMorgan/SQL_Employee_Analysis/blob/master/Images/SQL_queries.png)
 
 ## Dependencies
 1. PostgreSQL 
